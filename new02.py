@@ -47,5 +47,4 @@ class calculator:
 
                           
 root=Tk()
-calculator=calculator(root)
 root.mainloop()
